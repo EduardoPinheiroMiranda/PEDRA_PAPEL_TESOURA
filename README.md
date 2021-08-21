@@ -1,2 +1,2 @@
-# PEDRA_PAPEL_TESOURA
- Primeiro repositoro 
+# PEDRA, PAPEL, TESOURA
+ Primeiro repositoro, espero por mais :)
